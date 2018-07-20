@@ -1,0 +1,12 @@
+c:\users\rsubramanian\Source\Repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.deps.json
+c:\users\rsubramanian\Source\Repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.runtimeconfig.json
+c:\users\rsubramanian\Source\Repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.runtimeconfig.dev.json
+c:\users\rsubramanian\Source\Repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.dll
+c:\users\rsubramanian\Source\Repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.csprojAssemblyReference.cache
+c:\users\rsubramanian\Source\Repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.csproj.CoreCompileInputs.cache
+c:\users\rsubramanian\Source\Repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.AssemblyInfoInputs.cache
+c:\users\rsubramanian\Source\Repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.AssemblyInfo.cs
+c:\users\rsubramanian\Source\Repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.1\iris-data.txt
+c:\users\rsubramanian\Source\Repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.pdb
+c:\users\rsubramanian\Source\Repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.dll
+c:\users\rsubramanian\Source\Repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.pdb
